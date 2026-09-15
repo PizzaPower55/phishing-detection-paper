@@ -37,5 +37,5 @@ Evaluated on the **PhiUSIIL Phishing URL Dataset** (235,795 labeled samples).
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/](https://github.com/)<your-username>/phishing-url-detection.git
-   cd phishing-url-detection
+   git clone https://github.com/PizzaPower55/phishing-detection-paper.git
+   cd phishing-detection-paper
