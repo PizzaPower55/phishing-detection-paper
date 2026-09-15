@@ -3,8 +3,8 @@ Detecting Phishing URLS using URL-based and Webpage-based  Features
 
 # Detecting Phishing URLs Using Machine Learning
 
-[![Paper PDF](https://img.shields.io/badge/Paper-Download_PDF-blue.svg)](paper/Detecting_Phishing_URLs.pdf)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Tv1kWjYUqDtIhV3rHifbNSgaN4LxPkmg)
+[![Paper PDF](https://img.shields.io/badge/Paper-Download_PDF-blue.svg)](https://github.com/PizzaPower55/phishing-detection-paper/blob/main/Detecting%20Phishing%20URLS.pdf)
+[![Open In Colab](https://img.shields.io/badge/Open_In-Colab-orange.svg?logo=googlecolab)](https://colab.research.google.com/drive/1Tv1kWjYUqDtIhV3rHifbNSgaN4LxPkmg)
 
 A comparative study evaluating machine learning models (Random Forest, Decision Tree, KNN, Logistic Regression, MLP) on URL-based and webpage-based features for real-time phishing detection using the PhiUSIIL dataset.
 
